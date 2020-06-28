@@ -1,3 +1,9 @@
+## [1.0.1] - 2020-06-29
+- Satılık malikanelere yenilende
+- Garajlar eklendi
+- Yeni kullanıcı arabaları
+- Whitelist kullanımı
+
 ## [1.0.0] - 2020-06-28
 - Added new Game Launcher
 - Added new Tokovoip server
