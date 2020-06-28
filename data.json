@@ -3,5 +3,7 @@
   "status": "success",
   "ip": "173.249.13.195",
   "port": 10000,
-  "tokovoip": "173.249.13.195"
+  "tokovoip": "173.249.13.195",
+  "tokovoip_port": 9987,
+  "discord_url": "https://discord.gg/eHxfSK5"
 }
