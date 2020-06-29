@@ -1,3 +1,8 @@
+## [1.0.2] - 2020-06-29
+- Launcher updates
+- 128 player TokoVoip server
+- 128 player Fivem server
+
 ## [1.0.1] - 2020-06-29
 - Satılık malikaneler yenilendi
 - Garajlar eklendi
