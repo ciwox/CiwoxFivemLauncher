@@ -1,5 +1,5 @@
 ## [1.0.1] - 2020-06-29
-- Satılık malikanelere yenilende
+- Satılık malikaneler yenilendi
 - Garajlar eklendi
 - Yeni kullanıcı arabaları
 - Whitelist kullanımı
