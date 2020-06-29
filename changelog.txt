@@ -1,13 +1,15 @@
+### Get your launched at https://fivem.ciwox.com now!
+
 ## [1.0.2] - 2020-06-29
 - Launcher updates
 - 128 player TokoVoip server
 - 128 player Fivem server
 
 ## [1.0.1] - 2020-06-29
-- Satılık malikaneler yenilendi
-- Garajlar eklendi
-- Yeni kullanıcı arabaları
-- Whitelist kullanımı
+- Added new villa's, houses, buildings and more for sale
+- Added new garages
+- Added user vehicle settings
+- Added whitelist through steamID - application through discord.
 
 ## [1.0.0] - 2020-06-28
 - Added new Game Launcher
