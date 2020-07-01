@@ -5,5 +5,6 @@
   "port": 10000,
   "tokovoip": "213.32.7.126",
   "tokovoip_port": 9993,
-  "discord_url": "https://discord.gg/eHxfSK5"
+  "discord_url": "https://discord.gg/eHxfSK5",
+  "launcher_wallpaper": "https://fivem.ciwox.com/assets/wallpaper.jpg"
 }
