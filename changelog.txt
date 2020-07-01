@@ -1,6 +1,11 @@
 ### Get your launcher at https://fivem.ciwox.com now!
 
-## [1.0.2] - 2020-06-29
+## [1.0.3] - 2020-07-01
+- Added junkyard + junkman job + new location
+- Added police armor for officers
+- Added new emotes and emote command
+
+## [1.0.2] - 2020-06-30
 - Launcher updates
 - 128 player TokoVoip server
 - 128 player Fivem server
