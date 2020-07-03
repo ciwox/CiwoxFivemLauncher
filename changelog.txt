@@ -1,6 +1,6 @@
 ### Get your launcher at https://fivem.ciwox.com now!
 
-## [1.0.5] - 2020-07-02
+## [1.0.5] - 2020-07-03
 - Disabled all emergency services
 - Updated game launcher
 
