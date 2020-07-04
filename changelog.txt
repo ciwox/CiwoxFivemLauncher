@@ -1,5 +1,11 @@
 ### Get your launcher at https://fivem.ciwox.com now!
 
+## [1.1.0] - 2020-07-04
+- Added AntiCheat
+- Added burglary places
+- Added weed production
+- Edited Truck Robbery properties
+
 ## [1.0.5] - 2020-07-03
 - Disabled all emergency services
 - Updated game launcher
