@@ -1,4 +1,13 @@
 ### Get your launcher at https://fivem.ciwox.com now!
+## [1.1.1] - 2020-07-06
+- Added bank heist job
+- Added F10 clothing menu
+- Added meth drug job
+- Added corner drug dealing job
+- Added walkie-talkie for emergency services with different radio channels
+- Updated weapon/punch damage
+- Updated donator cars
+- Updated drug job rewards
 
 ## [1.1.0] - 2020-07-04
 - Added AntiCheat
