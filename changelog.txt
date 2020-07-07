@@ -1,4 +1,11 @@
 ### Get your launcher at https://fivem.ciwox.com now!
+
+## [1.1.2] - 2020-07-07
+- Fix close inventory on the use of radio
+- Fix radio only usable by EMS
+- Fix car dashboard visibility
+- Fix bank ornate heist job
+
 ## [1.1.1] - 2020-07-06
 - Added bank heist job
 - Added F10 clothing menu
