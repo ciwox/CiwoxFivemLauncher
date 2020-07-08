@@ -1,6 +1,7 @@
 ### Get your launcher at https://fivem.ciwox.com now!
 
 ## [1.1.2] - 2020-07-07
+- Addded various items and prices to black market
 - Fix close inventory on the use of radio
 - Fix radio only usable by EMS
 - Fix car dashboard visibility
